@@ -28,7 +28,25 @@ Notez que vous ne serez pas évalué sur la quantité de fonctionnalités implé
 
 ## Nos cas de test
 | Test     | Résultat attendu |
-|----------|:----------------:|
-| "1+1"    |  "1"             |
-| col 2 is |    centered      |
-| col 3 is | right-aligned    |
+|----------|-----------------:|
+| "1+1"    | "1"              |
+| "1 + 2"  | "3"              |
+| "5-4"    | "1"              |
+| "5\*2"   | "10"             |
+| "10/2"   | "5"              |
+|"2+2\*5+5"| "17"             |
+|"2.8\*3-1"| "7.4"            |
+|"2^8"     | "256"            |
+|"2^8\*5-1"| "1279"           |
+|"sqrt(4)" | "2"              |
+|"1/0"     | Erreur\*         |
+
+Note: D'autres cas de test peuvent être utilisés. Vous ne devez pas implémenter tous les opérations du tableau ci-dessus. Vous pouvez simplement expliquer comment vous auriez implémenté les opérateurs manquants.
+
+## Limitation
+* L'architecture doit être belle et propre
+* Le code doit être beau et propre
+
+Lorsque vous avez terminé, veuillez rendre votre code disponible à l'équipe de recrutement par le moyen qui vous convient le mieux. Nous vous recommendons un dépôt Git public sur GitHub.
+
+Sur ce, bon code!
