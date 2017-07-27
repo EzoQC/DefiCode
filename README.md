@@ -12,7 +12,7 @@ Vous devez créer une application qui évalue une chaîne de caractères, comme 
 Le programme doit:
 * Être écrit dans le langage orienté-objet de votre choix
 * Authoriser les nombres à virgule flotante et les nombres négatifs
-* Supporter ''au moins'' les opérateurs de base (+, -, * et /)
+* Supporter **au moins** les opérateurs de base (+, -, * et /)
 * Supporter un ou plusieurs espaces entre les opérateurs et les nombres
 * Respecter la priorité des opérateurs
 * Avoir un code propre qui respecte les principes de programmation OO
@@ -21,8 +21,12 @@ Vous ne pouvez pas:
 * Copier du code sur Internet
 * Utiliser du code produit par quelqu'un d'autre
 
+Limitation
+* L'architecture doit être belle et propre
+* Le code doit être beau et propre
+
 #### Processus d'évaluation
-Dès que vous recevez le courriel d'invitation au défi code, ''vous disposez de 14 jours'' pour produire le programme. Lorsque vous serez satisfait de votre code, vous allez être invité à présenter votre programme, son design et son architecture à nos évaluateurs. Prévoyez une présentation d'environ 1h.
+Dès que vous recevez le courriel d'invitation au défi code, **vous disposez de 14 jours** pour produire le programme. Lorsque vous serez satisfait de votre code, vous allez être invité à présenter votre programme, son design et son architecture à nos évaluateurs. Prévoyez une présentation d'environ 1h.
 
 Notez que vous ne serez pas évalué sur la quantité de fonctionnalités implémentées ou sur un code fonctionnel à 100%. Nous cherchons à comprendre votre mentalité par rapport à l'éxercice, vos choix et leurs raisons, le côté créatif de votre code, vos aptitudes à bien faire comprendre votre code, etc.. Si "1+1" retourne "4", vous ne serez pas pénalisé si vous pouvez expliquer pourquoi.
 
@@ -45,10 +49,6 @@ Notez que vous ne serez pas évalué sur la quantité de fonctionnalités implé
 |"1/0"     | Erreur\*         |
 
 Note: D'autres cas de test peuvent être utilisés. Vous ne devez pas implémenter tous les opérations du tableau ci-dessus. Vous pouvez simplement expliquer comment vous auriez implémenté les opérateurs manquants.
-
-#### Limitation
-* L'architecture doit être belle et propre
-* Le code doit être beau et propre
 
 Lorsque vous avez terminé, veuillez rendre votre code disponible à l'équipe de recrutement par le moyen qui vous convient le mieux. Nous vous recommendons un dépôt Git public sur GitHub.
 
